@@ -1,0 +1,14 @@
+Vegetables,Tomato,40
+Vegetables,Potato,30
+Vegetables,Onion,50
+Fruits,Apple,150
+Fruits,Banana,60
+Fruits,Orange,80
+Rice,Basmati Rice,100
+Rice,Normal Rice,60
+Meat,Chicken,220
+Meat,Mutton,850
+Meat,Beef,400
+Meat,Pork,450
+Meat,Fish,300
+Meat,Prawns,500
